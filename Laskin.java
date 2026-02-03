@@ -3,6 +3,7 @@ public class Laskin {
         System.out.println("Hello world!");
     }
     public static int laskin(int a, int b) {
+        return 100;
         return a+b;
     }
 }
