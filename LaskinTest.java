@@ -2,9 +2,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Test_laskin {
+class LaskinTest {
     @Test
-    void LaskinTest() {
+    void Laskintest() {
         assertEquals(5, Laskin.laskin(3, 2));
     }
 }
